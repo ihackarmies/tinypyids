@@ -2,8 +2,8 @@
  Tiny Python IDS 
 =================
 
-:Author: Alan Bairley
-:Contact: alan.bairley@gmail.com
+:Author: ihackcoinz
+:Contact: ihackarmies@gmail.com
 
 This module provides the ability to capture and parse packets from network
 interfaces and load them into a SQLite database.  Database export to human-readable
